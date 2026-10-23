@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "491627cf-a1e5-46f2-ac34-b92106b5592f",
+  "path": "resume-master",
+  "path_key": "resume-master",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

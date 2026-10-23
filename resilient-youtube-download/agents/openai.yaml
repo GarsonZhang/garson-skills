@@ -1,0 +1,4 @@
+interface:
+  display_name: "可靠 YouTube 下载"
+  short_description: "批量下载、断点续传、中文字幕、有限重试、节点切换与任务监控"
+  default_prompt: "使用 $resilient-youtube-download 批量下载 YouTube 视频，保留媒体与字幕，并对 HTTP 429 执行有限重试和已批准的任务节点切换。"

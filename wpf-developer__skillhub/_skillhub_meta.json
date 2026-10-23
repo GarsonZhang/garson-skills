@@ -1,0 +1,19 @@
+{
+  "slug": "wpf-developer",
+  "name": "wpf-developer",
+  "version": "1.0.0",
+  "installedAt": 1788915572673,
+  "source": "skillhub",
+  "namespace": "clawhub_weslon1987",
+  "canonicalName": "@clawhub_weslon1987/wpf-developer",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/10f9d8ff-5e7f-434f-9992-5e71e1d4e990.png",
+  "labels": {
+    "requires_api_key": "false"
+  },
+  "description_zh": "提供专业WPF桌面应用架构设计、MVVM实现、界面开发、性能优化及故障排查的全流程高级开发支持。",
+  "description_en": "提供专业WPF桌面应用架构设计、MVVM实现、界面开发、性能优化及故障排查的全流程高级开发支持。",
+  "installs": 1369,
+  "iconLocalPath": "C:\\Users\\garso\\.workbuddy\\skills\\wpf-developer__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/10f9d8ff-5e7f-434f-9992-5e71e1d4e990.png",
+  "installedContentHash": "sha256:0d76bd8f3860121e1a1d8b8061aca4a2921b7a3c2fb7db46c0f7ef55318adca4"
+}

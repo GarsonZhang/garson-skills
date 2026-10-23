@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0a5a175-493a-47bf-bb66-c3560f24fd05",
+  "path": "C#",
+  "path_key": "c#",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

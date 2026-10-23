@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3fe979ce-628c-4499-ae06-706a5e764aed",
+  "path": "abap-requirement-dev-doc",
+  "path_key": "abap-requirement-dev-doc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

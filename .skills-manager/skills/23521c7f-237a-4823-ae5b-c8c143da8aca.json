@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "23521c7f-237a-4823-ae5b-c8c143da8aca",
+  "path": "beaded-ornament-render",
+  "path_key": "beaded-ornament-render",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

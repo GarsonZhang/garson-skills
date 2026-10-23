@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce70eeaf-62d3-44d0-b09d-6f814b01a7d0",
+  "path": "minierp-project-structure",
+  "path_key": "minierp-project-structure",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

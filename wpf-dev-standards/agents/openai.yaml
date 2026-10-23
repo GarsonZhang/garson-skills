@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPF 开发规范"
+  short_description: "WPF/C# 开发约定，适用于 Claude 项目工作台"
+  default_prompt: "使用 $wpf-dev-standards 了解 Claude 项目工作台的 WPF/C# 开发规范。"

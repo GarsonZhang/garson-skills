@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bfa9908f-d457-4623-8622-db8d874d232d",
+  "path": "fnos-appdata-db-export",
+  "path_key": "fnos-appdata-db-export",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

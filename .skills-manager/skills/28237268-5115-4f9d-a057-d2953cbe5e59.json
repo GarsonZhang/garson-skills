@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "28237268-5115-4f9d-a057-d2953cbe5e59",
+  "path": "to-cms",
+  "path_key": "to-cms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "发布 YouTube SAP 中文博客"
+  short_description: "解析 SAP 培训视频并生成高清配图文章发布到 YESCMS"
+  default_prompt: "使用 $publish-youtube-sap-blog 读取这个 SAP 培训视频，生成中文博客并发布到 YESCMS。"

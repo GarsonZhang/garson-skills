@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "53c6a546-957d-4267-b78b-93fe577ac63c",
+  "path": "abap-alv-field-inventory",
+  "path_key": "abap-alv-field-inventory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

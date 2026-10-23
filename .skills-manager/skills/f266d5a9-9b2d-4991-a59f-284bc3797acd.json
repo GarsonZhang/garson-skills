@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f266d5a9-9b2d-4991-a59f-284bc3797acd",
+  "path": "fnos-cue-beets-import",
+  "path_key": "fnos-cue-beets-import",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "csharp",
+  "name": "C#",
+  "version": "1.0.1",
+  "installedAt": 1788915840812,
+  "source": "skillhub",
+  "namespace": "clawhub_ivangdavila",
+  "canonicalName": "@clawhub_ivangdavila/csharp",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/27205dc2-3c4b-4854-85b1-8902f05745a3.png",
+  "labels": {
+    "requires_api_key": "false"
+  },
+  "description_zh": "\"避开 C# 常见错误——空陷阱、异步陷阱、LINQ 陷阱及资源泄漏。\"",
+  "description_en": "Avoid common C# mistakes — null traps, async pitfalls, LINQ gotchas, and disposal leaks.",
+  "installs": 2536,
+  "iconLocalPath": "C:\\Users\\garso\\.workbuddy\\skills\\csharp__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/27205dc2-3c4b-4854-85b1-8902f05745a3.png",
+  "installedContentHash": "sha256:53565a6ac5ffd0632101b7db7adfb8978cbce16b742e1535c6b3d33fe1d6496b"
+}

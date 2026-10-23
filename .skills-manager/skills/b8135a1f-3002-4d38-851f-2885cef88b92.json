@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8135a1f-3002-4d38-851f-2885cef88b92",
+  "path": "wpf-dev-standards",
+  "path_key": "wpf-dev-standards",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

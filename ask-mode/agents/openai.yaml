@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask Mode"
+  short_description: "Answer-only guidance mode for discussion."
+  default_prompt: "Use $ask-mode to answer my questions without making changes or taking actions."

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa319ca9-354a-4c2e-9dd7-60555bf07467",
+  "path": "hanshuo-abap-development-standard",
+  "path_key": "hanshuo-abap-development-standard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

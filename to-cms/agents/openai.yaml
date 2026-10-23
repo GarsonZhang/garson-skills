@@ -1,0 +1,4 @@
+interface:
+  display_name: "to-cms"
+  short_description: "通过 MCP 新建、发布或按地址修改 YESCMS 文章。"
+  default_prompt: "使用 $to-cms 将内容发布为 YESCMS 文章，或根据文章地址读取、修改并保存现有文章。"

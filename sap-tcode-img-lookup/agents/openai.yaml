@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAP 事务菜单互查"
+  short_description: "专查 SAP 事务代码与 IMG 菜单入口"
+  default_prompt: "使用 $sap-tcode-img-lookup 查询 OB13 的配置对象、菜单路径、事务代码和用途。"

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b3365bd7-cf63-4a8f-b07f-3efaa879be6e",
+  "path": "sap-tcode-img-lookup",
+  "path_key": "sap-tcode-img-lookup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

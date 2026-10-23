@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b815d76c-dd76-4392-b02d-695acb57a119",
+  "path": "fnos-music-app-db-maintenance",
+  "path_key": "fnos-music-app-db-maintenance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

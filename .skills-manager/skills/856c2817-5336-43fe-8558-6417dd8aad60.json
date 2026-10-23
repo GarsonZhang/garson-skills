@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "856c2817-5336-43fe-8558-6417dd8aad60",
+  "path": "fastreport-frx-verify",
+  "path_key": "fastreport-frx-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f103e89c-9788-4f98-9e6c-d13fa63971ec",
+  "path": "fnos-video-library-organize",
+  "path_key": "fnos-video-library-organize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

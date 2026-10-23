@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "906df446-9cff-4c5a-a832-8f2fbbfb3075",
+  "path": "ask-mode",
+  "path_key": "ask-mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

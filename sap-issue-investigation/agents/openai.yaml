@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAP 问题排查"
+  short_description: "排查 SAP 接口及业务异常，追踪真实输入与返回，截图取证并交付离线 HTML 报告"
+  default_prompt: "使用 $sap-issue-investigation 排查当前 SAP 问题，复用已登录会话，核对需求、活动代码和实际数据，记录关键截图并生成 HTML 排查报告。"

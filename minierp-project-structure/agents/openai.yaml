@@ -1,0 +1,4 @@
+interface:
+  display_name: "MINIERP Project Structure"
+  short_description: "MINIERP front-end and back-end structure guide"
+  default_prompt: "Use $minierp-project-structure to understand where MINIERP front-end and back-end code lives before making changes."

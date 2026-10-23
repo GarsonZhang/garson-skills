@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2bb02d2-4b9c-4092-af7d-8160599ba88c",
+  "path": "mcp-install-stdio-windows",
+  "path_key": "mcp-install-stdio-windows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

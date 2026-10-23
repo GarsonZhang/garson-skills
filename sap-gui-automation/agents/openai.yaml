@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAP GUI Automation"
+  short_description: "通过 SAP GUI Scripting 安全操作指定系统、客户端和事务界面"
+  default_prompt: "使用 $sap-gui-automation 在 SAP 系统 DL8 客户端 888 中打开事务 MM01。"

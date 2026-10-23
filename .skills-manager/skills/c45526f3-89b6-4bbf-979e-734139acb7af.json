@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c45526f3-89b6-4bbf-979e-734139acb7af",
+  "path": "npm-docker-native-deps",
+  "path_key": "npm-docker-native-deps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

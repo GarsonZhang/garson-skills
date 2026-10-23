@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5af8c8f3-ae63-4e8e-9f5f-935287e7d1a0",
+  "path": "sap-gui-automation",
+  "path_key": "sap-gui-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc2fb5ae-74bf-4120-ae7f-356f3700fd1e",
+  "path": "abap-z-table-maintenance",
+  "path_key": "abap-z-table-maintenance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

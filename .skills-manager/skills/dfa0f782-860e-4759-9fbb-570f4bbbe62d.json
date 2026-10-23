@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dfa0f782-860e-4759-9fbb-570f4bbbe62d",
+  "path": "fnos-music-organize",
+  "path_key": "fnos-music-organize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

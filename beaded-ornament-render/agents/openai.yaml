@@ -1,0 +1,4 @@
+interface:
+  display_name: "原图珠饰效果图"
+  short_description: "Turn a source image directly into beadwork art"
+  default_prompt: "Use $beaded-ornament-render to turn my image directly into beadwork with no added frame."

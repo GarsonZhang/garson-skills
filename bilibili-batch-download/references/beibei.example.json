@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "destination": "C:\\Downloads\\beibei",
+  "summaryPath": "C:\\Downloads\\beibei-summary.json",
+  "range": {
+    "urlTemplate": "https://www.bilibili.com/video/BV1Ua411P7ak?p={index}",
+    "start": 1,
+    "end": 54
+  },
+  "resolver": {
+    "url": "https://xapi.peanutdl.com/beibei",
+    "method": "POST",
+    "contentType": "application/json; charset=utf-8",
+    "timeoutSeconds": 60,
+    "headers": {
+      "Accept": "application/json",
+      "User-Agent": "Mozilla/5.0"
+    },
+    "body": {
+      "api": "BEIBEI",
+      "url": "{sourceUrl}",
+      "captcha": "",
+      "id": "",
+      "captcha_code": "",
+      "captcha_id": "",
+      "turnstile_token": "",
+      "captcha_type": "disabled"
+    },
+    "success": [
+      { "path": "status", "equals": 0 },
+      { "path": "info.status", "equals": 0 },
+      { "path": "mp4.status", "equals": 0 }
+    ],
+    "response": {
+      "downloadUrlPath": "mp4.player_url",
+      "fileNamePath": "info.Titlep",
+      "expectedSizePath": "mp4.info_size",
+      "identityPath": "info.Cid"
+    }
+  },
+  "download": {
+    "fileExtension": ".mp4",
+    "allowedHosts": ["*.bilivideo.com"],
+    "allowedContentTypes": ["video/mp4", "application/octet-stream"],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "Referer": "{sourceUrl}"
+    },
+    "signature": {
+      "offset": 4,
+      "ascii": "ftyp"
+    },
+    "resume": false,
+    "maxAttempts": 3,
+    "connectTimeoutSeconds": 30,
+    "maxTimeSeconds": 300,
+    "lowSpeedLimitBytes": 1024,
+    "lowSpeedTimeSeconds": 30
+  }
+}

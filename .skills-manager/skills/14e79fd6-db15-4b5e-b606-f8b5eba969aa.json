@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "14e79fd6-db15-4b5e-b606-f8b5eba969aa",
+  "path": "sap-issue-investigation",
+  "path_key": "sap-issue-investigation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

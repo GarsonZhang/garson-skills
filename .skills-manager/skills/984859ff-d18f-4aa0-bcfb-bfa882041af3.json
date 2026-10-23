@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "984859ff-d18f-4aa0-bcfb-bfa882041af3",
+  "path": "jocupdate",
+  "path_key": "jocupdate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

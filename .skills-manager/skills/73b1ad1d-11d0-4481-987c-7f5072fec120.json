@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "73b1ad1d-11d0-4481-987c-7f5072fec120",
+  "path": "publish-youtube-sap-blog",
+  "path_key": "publish-youtube-sap-blog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

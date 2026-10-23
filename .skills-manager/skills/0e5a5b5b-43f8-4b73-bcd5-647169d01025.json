@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e5a5b5b-43f8-4b73-bcd5-647169d01025",
+  "path": "bilibili-batch-download",
+  "path_key": "bilibili-batch-download",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

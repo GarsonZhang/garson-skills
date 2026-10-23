@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "destination": "C:\\Downloads\\resources",
+  "summaryPath": "C:\\Downloads\\resources-summary.json",
+  "items": [
+    {
+      "index": 1,
+      "sourceUrl": "https://example.com/resources/1",
+      "downloadUrl": "https://cdn.example.com/files/resource-1.pdf",
+      "fileName": "resource-1.pdf",
+      "expectedSize": 1048576,
+      "identity": "resource-1"
+    }
+  ],
+  "download": {
+    "fileExtension": ".pdf",
+    "allowedHosts": ["cdn.example.com"],
+    "allowedContentTypes": ["application/pdf", "application/octet-stream"],
+    "headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Referer": "{sourceUrl}"
+    },
+    "signature": {
+      "offset": 0,
+      "ascii": "%PDF"
+    },
+    "resume": false,
+    "maxAttempts": 3,
+    "connectTimeoutSeconds": 30,
+    "maxTimeSeconds": 300,
+    "lowSpeedLimitBytes": 1024,
+    "lowSpeedTimeSeconds": 30
+  }
+}

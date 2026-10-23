@@ -1,0 +1,4 @@
+interface:
+  display_name: "汉硕 ABAP 开发规范"
+  short_description: "按分环境公司规范设计、编写和审查现代及经典 ABAP"
+  default_prompt: "使用 $hanshuo-abap-development-standard 先判断目标 SAP 环境，再按公司规范审查这个 ABAP 开发。"

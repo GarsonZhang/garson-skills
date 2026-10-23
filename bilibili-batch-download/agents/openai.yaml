@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili 批量下载"
+  short_description: "批量下载 Bilibili 视频；强制用 beibei 解析最终 mp4 地址"
+  default_prompt: "使用 $bilibili-batch-download 批量下载 Bilibili 视频；分 P 下载必须用 beibei 解析并默认用 info.Titlep 命名，严格校验结果。"
